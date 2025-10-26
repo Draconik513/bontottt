@@ -39,35 +39,32 @@ const Memories = ({ isIOS }) => {
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <p>
-              💌 <strong>For my favorite person...</strong>
+              💌 <strong>Untuk kamu yang selalu aku tunggu...</strong>
             </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maaf ya, Sayang... 💕 Maaf kalau selama ini aku pernah cuek,
-              terlalu sibuk, atau kurang peka sama perasaanmu. Aku gak pernah
-              ada niat nyakitin kamu, semua itu karena aku manusia biasa yang
-              masih belajar mencintaimu dengan lebih baik dari yang
-              sebelum-sebelumnya 🥺💗
+              💌 Maaf yaa, bontot ku .. kalau cuma bisa kasih inii wkwk. Next
+              klo udh dateng ke Jawa nanti aku traktir okeee 😆
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Makasii udah selalu sabar, masih mau tetep sama aku 🌸
-              Pertengkaran pasti ada dan aku harap kamu gak pernah ngelepasin
-              aku gitu aja cuma karena masalah yang masih bisa kita atasin
-              sama-sama 🤝✨
+              Jangan lupa tetep balik kesiniiii yaa 🌷 Aku tau aku suka jarang
+              ngabarin, suka ilang-ilangan balas chat kamu 😅 Tapi bukan berarti
+              aku lupa atau berubah.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Maaf ya yang 🫶 dan makasih karena kamu tetap percaya sama aku 🥹💖
+              Be happy okeey! ✨ Aku bakalan tetep disini klo kamu kenapa-kenapa
+              🤍
             </motion.p>
           </div>
         </motion.div>

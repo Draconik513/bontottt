@@ -6,17 +6,21 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡️, dan kebahagiaan yang tiada akhir 🌈✨.
+Hari ini adalah hari spesial... karena orang terspesial di hidup aku lahir hari ini 💗
 
-Aku tahu hidup tidak selalu mudah 🌧️, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡️💆‍♀️.
+Terima kasih udah hadir di hidup aku bontott akuu 😍
 
-Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤️.
+Semoga ulang tahun kali ini bikin kamu tambah bahagia, sehat selalu, sukses buat kedepan nya yuhuuu 🫨
 
-Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀️, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
+Dan semoga setiap langkah kmu penuh keberkahan, dan setiap impianmu satu per satu menjadi kenyataan. Kamu punya hati yang tulus, senyum yang menenangkan, dan jiwa yang baik, Dunia butuh lebih banyak orang sepertimu. Jadi jangan pernah ngerasa sendiri apalagi nyerah 🫂
 
-Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
+Aku pengen kamu tau kalau aku percaya sama kamu sepenuhnya. Kamu kuat, kamu hebat, dan kamu pantas dapetin yang terbaik, jangan pernah ngeraguin dirimu sendiri, kamu itu cahaya dalam hidup banyak orang, termasuk hidup akuu sendiri 🥺
 
-Aku cinta kamu ❤️, dan akan selalu mencintaimu 💍
+kalau suatu hari kamu ngerasa ragu atau takut, ingat doa aku ini ”Semoga kamu selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah.Termasuk dariku donaa 💝”
+
+Jangan lupa tetep jadi kamu yang manis, jadi jangan lupa senyum di hari ulang tahun kamuu okee 😋
+
+dari eonni kesayangan kamuu <3
   `;
 
   return (
@@ -86,7 +90,7 @@ Aku cinta kamu ❤️, dan akan selalu mencintaimu 💍
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Friskha hasiana 💖
+                  Bontot 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hanya kamu di hatiku, sayang 🥹
